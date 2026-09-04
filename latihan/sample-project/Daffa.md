@@ -1,0 +1,1 @@
+Muhammad Daffa Riansyah, Cita-cita pengangguran sukses
