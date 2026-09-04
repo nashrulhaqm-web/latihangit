@@ -1,0 +1,27 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Editor & IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment Variables & Credentials
+.env
+.env.local
+*.pem
+
+# Dependencies
+node_modules/
+vendor/
+venv/
+__pycache__/
+
+# Build & Logs
+dist/
+build/
+*.log
+npm-debug.log*
+
